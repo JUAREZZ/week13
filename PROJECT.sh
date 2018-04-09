@@ -1,4 +1,5 @@
  #Wikinets Research wiki!
+ #april 08 
 
 #My contribution for the Linux final project. Yasir found a great website with full documentation of LAMP as well as Mediawiki installation. I am still having trouble with renaming the URL from localhost which is under Step 3 on the link to install Mediawiki for Ubuntu. When I edit the ServerName, I cannot find the new url in my web browser. Mediawiki is only showing under localhost currently. If any of you can help with this, that would be great!
 
